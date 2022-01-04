@@ -1,7 +1,7 @@
-This branch is BACKEND branch of Project.
-Start Class : LibraryProjectApplication.java
-This is library with readers room project.
-It uses MySql database.
+This branch is BACKEND branch of Project;
+Start Class : LibraryProjectApplication.java;
+This is library with readers room project;
+It uses MySql database;
 
 It base to development - some controllers are not used, but will be used in future.
 After connection with Frontend - it is self explaning - I hope :)
