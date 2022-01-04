@@ -1,6 +1,8 @@
 # Library-ReadingRoom
 Its a Frontend branch of project.
 
+Start: LibraryProjectApplication.java
+
 Backend branch, short desc. is also in this repository:
 
 Link to Backend branch:
